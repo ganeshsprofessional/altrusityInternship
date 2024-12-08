@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class BeesAndFlowers {
+public class q5 {
     public static List<Integer> countBeesBetweenFlowers(String s, int[] startIndex, int[] endIndex) {
         int n = s.length();
         List<Integer> flowerPositions = new ArrayList<>();
