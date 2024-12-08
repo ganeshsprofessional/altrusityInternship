@@ -47,5 +47,7 @@ int main(){
   }else{
     printf("No purchase made\n");
   }
+
+  free(prices);
   return 0;
 }
